@@ -1,0 +1,37 @@
+{
+  "_from": "snow-flutter",
+  "_id": "snow-flutter@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-XDlsfW6by7c/ikl3spf7YhLMMJKuQOnKvJLxCN1Q+9NuAEnw/kg/j1VXaNDs+luRhza1D9UgVVtkJRv7L8GDQw==",
+  "_location": "/snow-flutter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "snow-flutter",
+    "name": "snow-flutter",
+    "escapedName": "snow-flutter",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/snow-flutter/-/snow-flutter-1.0.0.tgz",
+  "_shasum": "8beee7f302ba12f8ea4201058c44dc060b21943d",
+  "_spec": "snow-flutter",
+  "_where": "C:\\Users\\xpwu\\Desktop\\mywebsite\\my-react-app",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "snow-flutter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
